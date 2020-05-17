@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! Im Luke, I'm 24 and I live in Nottingham in the UK!
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I currently work as a Fire and Security System Engineer but I am looking to move my career into Full Stack JavaScript development. I'm currently learning the MERN stack through https://teamtreehouse.com. I hope to post a learning log on here as well as some tutorials to help me put my learning together.
 
 ### Contact me
 
