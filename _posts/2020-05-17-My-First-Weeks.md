@@ -5,7 +5,7 @@ title: My First Weeks!
 
 Hi everyone! Welcome to my first learning log post.
 
-But of backstory of me learning web development first. When I left 6th Form 2011 I had no idea what I wanted to do with my life. 
+Bit of backstory of me learning web development first. When I left 6th Form 2011 I had no idea what I wanted to do with my life. 
 After searching around for careers I stumbled upon an IT apprenticeship opening I applied, went to the interview and got offered
 a position. Thus began my initial dive into web development. My apprenticeship placement was at a local company who had built a system 
 for checking driving licences through the DVLA. The app was built upon ASP.NET web forms and very bloated. The head developer lived and 
@@ -19,12 +19,11 @@ I have been thinking back to the time of my apprenticeship and realised all the 
 web app, I learnt how to cummunicate ideas to a developer using the correct terminology and quite a lot of SQL.
 
 This leads to now and I have re-activated my account with Treehouse (I first opened my account during the apprenticeship), I have been 
-looking at web development jobs and have seen that most in my area are for Full Stack JavaScript so I have taken it upon myself to learn and 
+looking at web development jobs and have seen that most in my area are for Full Stack .NET so I have taken it upon myself to learn and 
 hopefully move back into this industry.
 
 I have spent the first few weeks with Treehouse brushing up on my knowledge of HTML, CSS and JavaScript (turns out I remebered quite 
-alot). I have for the last week been learning Node.js and Express to create persistent API's and I am now learning React (which I must
-say I am finding quite difficult but slowly grasping it!) I am really enjoying getting back onto my laptop and tinkering again and I am 
+alot). I have for the last week been learning the basic of c#  and I am now learning .NET MVC. I am really enjoying getting back onto my laptop and tinkering again and I am 
 looking forward to seeing where this knowledge will take me!
 
 If you have any questions about Treehouse then drop me an email I'd be happy to give my thoughts on them!
