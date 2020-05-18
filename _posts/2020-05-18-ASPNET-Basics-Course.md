@@ -9,11 +9,11 @@ everyone is working on .NET Core now but from what I've read the differences are
 
 The course taught alot of basics such as:
 
--Controllers and abstracting to a Data layer
--Routing
--Razor views
--Modelling Data in C# classes
--Using Github inside Visual Studio (Which I absolutely love!)
+- Controllers and abstracting to a Data layer  
+- Routing  
+- Razor views  
+- Modelling Data in C# classes  
+- Using Github inside Visual Studio (Which I absolutely love!)  
 
 I've still got a long way to go and Im about to start their next course which is ASP.NET MVC forms. I still need to learn about Entity 
 Framework, connecting a MVC app to a database and how to authenticate and authorise users, luckily there is courses available for all those
